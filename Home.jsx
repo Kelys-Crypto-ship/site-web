@@ -1,7 +1,7 @@
 import React from "react";
 
-export default function Home() {
-  const bg = "https://blush-random-panther-926.mypinata.cloud/ipfs/bafybeifgen5panmynhyjebsfbvoywsii5rhi325eh6vnvxu7zhealqfy44";
+// Remplacez 'home-bg.jpg.jpg' par le nom exact du fichier vu sur Pinata
+const bg = "https://blush-random-panther-926.mypinata.cloud/ipfs/bafybeifgen5panmynhyjebsfbvoywsii5rhi325eh6vnvxu7zhealqfy44/votre-image.jpg";
 
   return (
     <section style={{ 
